@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Montain and Winter Cold Weather</title>
+	<atom:link href="https://danielnepali.github.io/Serve/2019/01/12/montain-and-winter-cold-weather/feed/" rel="self" type="application/rss+xml" />
+	<link>https://danielnepali.github.io/Serve/2019/01/12/montain-and-winter-cold-weather/</link>
+	<description>Yet another awesome website by Phlox theme.</description>
+	<lastBuildDate>Sat, 12 Jan 2019 22:00:18 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+</channel>
+</rss>
